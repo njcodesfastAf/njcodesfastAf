@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack developing 
 - 🌱 I’m currently learning DSA in C
 - 💞️ I’m looking to collaborate on dsa projects 
-- 📫 How to reach me, contact me ini ig@nilesh_jha_09
+- 📫 How to reach me, contact me in ig @nilesh_jha_09
 
 <!---
 njcodesfastAf/njcodesfastAf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
